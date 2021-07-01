@@ -1,0 +1,14 @@
+Reference,Quantity,Value,Footprint
+C1,1,10u,Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm
+C2,1,u01,Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm
+D1,1,5V1,Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal
+D2,1,LED,LED_THT:LED_D5.0mm
+J1 J2 J3,3,,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical
+Q1,1,BC547,Package_TO_SOT_THT:TO-92_Inline
+R1,1,10k,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R2,1,1M,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R3 R6,2,1k,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R4,1,470k,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R5,1,2k2,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+RV1 RV2,2,100k,Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical
+U1,1,NE555,Package_DIP:DIP-8_W7.62mm
