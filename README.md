@@ -1,6 +1,6 @@
 # 555 Piezo Trigger
 
-This trigger module helps to sanitize a switch input to control sound sources (e.g. drum samples) a bit more precisely.
+This trigger module helps to sanitize a sensor input to control sound sources (e.g. drum samples) a bit more precisely.
 
 ![555 Piezo Trigger: Photo](Photos/555-piezo-trigger_F.jpg)
 
